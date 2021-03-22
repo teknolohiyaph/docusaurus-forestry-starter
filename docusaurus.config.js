@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'My Site',
+  title: 'Teknolohiya',
   tagline: 'The tagline of my site',
-  url: 'https://thirsty-varahamihira-fba3d6.netlify.app/',
+  url: 'https://teknolohiya.ph/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
